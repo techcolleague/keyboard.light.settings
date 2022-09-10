@@ -10,7 +10,7 @@ Your productivity depends on a number of particular elements that can make or br
 
 In order to adjust the brightness on your keyboard backlights, press the backlight function key a couple of times for a dimmer illumination. This button alone functions as your one-stop-shop for all keyboard light operations.
 
-## ## How to change the color of a backlit keyboard?
+## How to change the color of a backlit keyboard?
 
 * Open Omen Gaming Hub from your Windows taskbar or via the Windows Start menu
 * Select “Lighting” located on the left navigation sidebar
